@@ -1,0 +1,7 @@
+Nome de usuário: joana2
+Senha: x
+UID: 1003
+GID principal: 1005
+GECOS: ,,,
+Diretório inicial: /home/joana2
+Shell: /bin/bash
